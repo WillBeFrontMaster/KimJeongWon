@@ -4,11 +4,13 @@
 
 # Internet
 
-- ### [HTTP](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/2022-06-12_HTTP.md)
+- ### [HTTP](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/HTTP.md)
 
-- ### [Browser](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/2022-06-12_Browsers.md)
+- ### [Browser](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/Browsers.md)
 
-- ### [DNS](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/2022-06-12_DNS.md)   
+- ### [DNS](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/DNS.md)   
 
-- ### [Domain Name](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/2022-06-21_DomainName.md)
+- ### [Domain Name](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/DomainName.md)
+
+- ### [Hosting](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/Internet/Hosting.md)
 
