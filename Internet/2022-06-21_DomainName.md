@@ -4,6 +4,14 @@
 
 **전제 조건**: 먼저 [인터넷이 작동하는 방식 과](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) [URL이 무엇인지](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL) 이해해야 합니다 .
 
+## 도메인 이름이란 무엇입니까?
+
+도메인 이름은 클라이언트 소프트웨어에서 웹사이트에 액세스하는 데 사용되는 숫자 [IP 주소](https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/) 에 매핑되는 텍스트 문자열입니다 . 일반 영어에서 도메인 이름은 사용자가 특정 웹사이트에 도달하기 위해 브라우저 창에 입력하는 텍스트입니다. 예를 들어 Google의 도메인 이름은 'google.com'입니다.
+
+## 도메인 이름과 URL의 차이점은 무엇입니까?
+
+웹 주소라고도 하는 URL(Uniform Resource Locator)에는 사이트의 도메인 이름과 전송 프로토콜 및 경로를 비롯한 기타 정보가 포함됩니다. 예를 들어 'https://cloudflare.com/learning/' URL에서 'cloudflare.com'은 도메인 이름이고 ' [https](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/) '는 프로토콜이고 '/learning/'은 특정 페이지의 경로입니다. 웹 사이트.
+
 ## 요약
 
 도메인 이름은 인터넷 인프라의 핵심 부분입니다. 그들은 인터넷에서 사용할 수 있는 모든 웹 서버에 대해 사람이 읽을 수 있는 주소를 제공합니다.
@@ -49,7 +57,7 @@ TLD의 전체 목록은 [ICANN](https://www.icann.org/resources/pages/tlds-2012-
 
 Verisign의 최신 업계 보고서에 따르면 [모든 최상위 도메인에 걸쳐 3억 6,600만 개의 도메인 이름이 등록](https://www.verisign.com/en_US/domain-names/dnib/index.xhtml)되어 있으며, 매일 수천 개 이상의 도메인 이름이 등록됩니다. 이것은 가장 좋은 도메인 이름은 이미 사용되고 있다는 것을 의미할 뿐만 아니라 내가 갖고 있는 모든 아이디어를 다른 사람이 사용하기까지 남은 시간이 얼마 없다는 것을 의미합니다.
 
-## DNS 새로 고침
+#### DNS 새로 고침
 
 DNS 데이터베이스는 전 세계의 모든 DNS 서버에 저장되며 이 모든 서버는 "권한 있는 이름 서버" 또는 "최상위 수준 DNS 서버"라는 몇 가지 특수 서버를 나타냅니다. — 이들은 시스템을 관리하는 보스 서버와 같습니다.
 
@@ -58,4 +66,6 @@ DNS 데이터베이스는 전 세계의 모든 DNS 서버에 저장되며 이 �
 ## REFERENCE
 [WixBlog](https://ko.wix.com/blog/post/what-is-a-domain)   
    
-[mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name#buying_a_domain_name)
+[mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name#buying_a_domain_name)      
+    
+ [CLOUDFLARE](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
