@@ -8,4 +8,4 @@
 
 - ### [Browser](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/2022-06-12_Browsers.md)
 
-- ### [DNS](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/2022-06-12_DNS)
+- ### [DNS](https://github.com/WillBeFrontMaster/KimJeongWon/blob/main/2022-06-12_DNS.md)
