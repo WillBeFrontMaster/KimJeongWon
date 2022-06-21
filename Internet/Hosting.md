@@ -18,7 +18,7 @@
 독자작인 서버컴퓨터를 가진것과 동일한 서비스를  
 이용할 수 있습니다.
 
-![웹호스팅 프로세스](https://www.dotname.co.kr/assets/images/hosting/web/webhostingis_01.png)
+![image](https://user-images.githubusercontent.com/39118437/174779547-5fea0202-803f-4fc2-8abf-e8dfcfa5539d.png)
 
 
 ## 웹 호스팅과 도메인 이름의 차이점은 무엇인가요?
